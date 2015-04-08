@@ -1,2 +1,5 @@
 © int-elligence (Github)
 Distributed solely under copyright law with provisions that redistributions must behave exactly as the current version behaves.
+
+Credit:
+Styles used: Bootflat (http://bootflat.github.io/)
